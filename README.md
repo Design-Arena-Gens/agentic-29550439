@@ -1,4 +1,37 @@
 # AI-Generated Project
+Deen Ply Doors — Instagram Video Generator
+==========================================
+
+Create a 1‑minute Instagram promo video (Tamil copy) from a single family image. Upload an image, choose aspect (9:16 or 4:5), preview Ken Burns animation with branded overlays, and generate a downloadable WebM in-browser.
+
+Quick start
+-----------
+
+1) Install
+
+```bash
+npm install
+```
+
+2) Run locally
+
+```bash
+npm run dev
+```
+
+Open http://localhost:3000 and upload your family image.
+
+Build
+-----
+
+```bash
+npm run build
+```
+
+Notes
+-----
+- Browser-based encoding is provided as a high-quality WebM preview.
+- For true 8K 60s masters, render offline with desktop tools (FFmpeg, Remotion, etc.).
 
 This project was automatically generated using AI-powered code generation tools.
 
